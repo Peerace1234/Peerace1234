@@ -1,14 +1,8 @@
-- 👋 Hi, I’m @Peerace1234
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning backend development...
-- 💞️ I’m looking to collaborate on  backends projects...
-- 📫 How to reach me
-- you can reach me @whatsapp 2347034579933
-- @gmail babalolapraisev23@gmail.com ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+Hi, I'm Praise 👋  
+I build full-stack web applications focused on performance and real-world usability.  
 
-<!---
-Peerace1234/Peerace1234 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+Tech: JavaScript, React, Node.js, MongoDB  
+
+Projects:
+- SaaS Dashboard App (Auth + API + UI)
+- Payment Integration System  
